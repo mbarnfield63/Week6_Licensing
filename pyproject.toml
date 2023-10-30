@@ -1,5 +1,5 @@
-[test_project]
-name = "Test_Project_W6"
+[project]
+name = "Pixel_Art_Pink_Bee"
 version = "0.0.1"
 authors = [
   { name="Example Boi", email="boi@example.com" },

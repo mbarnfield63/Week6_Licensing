@@ -1,0 +1,7 @@
+README.md
+pixel_art.py
+pyproject.toml
+pixel_art.egg-info/PKG-INFO
+pixel_art.egg-info/SOURCES.txt
+pixel_art.egg-info/dependency_links.txt
+pixel_art.egg-info/top_level.txt
